@@ -1,0 +1,13 @@
+tipo:ACPM:14000:50.0
+tipo:extra:17000:50.0
+tipo:corriente:13000:50.0
+tipo:Diesel:9000:50.0
+surtidor:Sam Sulek:ACPM:0.0:extra:0.0:corriente:0.0:Diesel:0.0
+surtidor:Jared Leto:ACPM:0.0:extra:0.0:corriente:0.0:Diesel:0.0
+surtidor:Christian Bale:ACPM:0.0:extra:0.0:corriente:0.0:Diesel:0.0
+surtidor:Jared Leto:ACPM:0.0:extra:0.0:corriente:0.0:Diesel:0.0
+empleado:Christian Bale:0
+empleado:Brad Pitt:0
+empleado:Sam Sulek:0
+empleado:Jared Leto:0
+empleado:Ryan Gosling:0
